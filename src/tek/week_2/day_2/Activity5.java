@@ -4,7 +4,7 @@ public class Activity5 {
 	
 	public static void main(String[] args) {
 		String fullName = "John Smith";
-		//Subtring to FirstName and Lastname.
+		//Substring to FirstName and Lastname.
 		int spaceIndex = fullName.indexOf(' ');
 		String firstName = fullName.substring(0 , spaceIndex);
 		String lastName = fullName.substring(spaceIndex);
