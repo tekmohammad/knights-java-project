@@ -18,7 +18,6 @@ public class Activity3 {
 		String lastName = scanner.next(); 
 		
 		String fullName = firstName + " " + lastName; 
-		
 		System.out.println("Output " + fullName.toUpperCase());		
 		scanner.close(); 
 	}
