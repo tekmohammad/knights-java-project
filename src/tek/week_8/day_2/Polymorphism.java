@@ -1,4 +1,4 @@
-package tek.week_8.day_1;
+package tek.week_8.day_2;
 
 public class Polymorphism {
 	// What is Polymorhpism. 
@@ -11,7 +11,8 @@ public class Polymorphism {
 	 */
 	
 	// We have two types of polymorphism
-	// 1. Method OverLoading (Compile Time): 
+	
+	// 1. Method OverLoading (Compile Time)- (Static Binding): 
 	// A class having multiple methods with same name but different 
 	// parameters is called Method Overloading There are three ways
 	// to overload a method.
@@ -20,5 +21,4 @@ public class Polymorphism {
 	 * • Parameters with different sequence of a data types
 	 * • Different number of parameters
 	 */
-	
 }
